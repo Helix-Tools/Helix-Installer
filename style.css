@@ -8,3 +8,7 @@
     top: 50%;
     width: 100%;
 }
+
+body {
+    background-image: linear-gradient(to right, rgb(90, 89, 89) , rgb(223, 223, 221));
+  }
