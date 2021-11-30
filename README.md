@@ -24,7 +24,7 @@ Open source app installer which uses winget and curl to fetch apps from the web.
 
 
 
-## Demo
+## Showcase
 
 ![Logo](https://cdn.discordapp.com/attachments/332998404466802689/915347962295615549/YsfLVIF7Jf.gif)
 
