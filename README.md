@@ -21,6 +21,7 @@ Open source app installer which uses winget and curl to fetch apps from the web.
 
 - App Store
 - App Updater
+- Preset Packs
 
 
 
