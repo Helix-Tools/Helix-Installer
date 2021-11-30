@@ -1,8 +1,10 @@
 .name {
     font-family: 'Courier New', Courier, monospace;
-    position: fixed;
-    top: 50%;
-    left:50%;
+    left: 0;
+    line-height: 200px;
+    margin-top: -100px;
+    position: absolute;
     text-align: center;
-    font-size: 50px;
+    top: 50%;
+    width: 100%;
 }
