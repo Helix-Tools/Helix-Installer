@@ -1,5 +1,5 @@
 
-![Logo](https://i.imgur.com/KEPSxki.png)
+![Logo](https://i.imgur.com/jV8Ii0i.png)
 
 
 # Helix Installer
