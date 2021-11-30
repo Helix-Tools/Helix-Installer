@@ -2,8 +2,6 @@
 ![Logo](https://i.imgur.com/jV8Ii0i.png)
 
 
-# Helix Installer
-
 ![Issues](https://img.shields.io/github/issues/Helix-Tools/Helix-Installer) ![Issues](https://img.shields.io/github/last-commit/Helix-Tools/Helix-Installer) 
  
 Open source app installer which uses winget and curl to fetch apps from the web. 
