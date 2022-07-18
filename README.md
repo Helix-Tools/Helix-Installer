@@ -46,7 +46,7 @@ We request admin privileges to ensure there will be no problems when the app tri
 
 ## Documentation
 
-Documentation can be found [here](helixtools.com/documentation)
+Documentation can be found [here](https://helixtools.com/documentation)
 
 ## Support
 
