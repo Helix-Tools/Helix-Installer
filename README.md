@@ -37,7 +37,7 @@ No the application is not a virus, all the code is open source.
 
 #### What operation systems are supported?
 
-Windows 10 | Windows 11
+Windows 10 & Windows 11
 
 #### Why does this program request admin privileges?
 
