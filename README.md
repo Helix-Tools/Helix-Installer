@@ -44,6 +44,10 @@ Windows 10 | Windows 11
 We request admin privileges to ensure there will be no problems when the app tries installing certain packages.
 
 
+## Documentaion 
+
+Documentation can be found [here](helixtools.com/documentation)
+
 ## Support
 
 For support, please join our discord server https://discord.gg/HWBk7N6yKZ
