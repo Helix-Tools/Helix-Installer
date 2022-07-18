@@ -39,6 +39,10 @@ No the application is not a virus, all the code is open source.
 
 Windows 10 | Windows 11
 
+#### Why does this program request admin privileges?
+
+We request admin privileges to ensure there will be no problems when the app tries installing certain packages.
+
 
 ## Support
 
